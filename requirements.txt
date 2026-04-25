@@ -1,0 +1,7 @@
+# Deep Search Agent Swarm - Dependencies
+openai>=1.0.0          # Groq uses OpenAI-compatible SDK
+duckduckgo-search>=6.0 # Free web search, no API key needed
+trafilatura>=1.6.0     # Web content extraction (best in class)
+python-dotenv>=1.0.0   # Environment variable management
+rich>=13.0.0           # Beautiful CLI output with progress bars
+httpx>=0.25.0          # Async HTTP client for web requests
